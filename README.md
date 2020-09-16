@@ -1,10 +1,10 @@
 ### Hi there 👋
-
+www.hackerrank.com/vaibhav-gawai
 <!--
 **vaibhav-gawai/vaibhav-gawai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### Here are some details about me 
+### ✨ Here are some details about me ✨
 
 - 🔭 I’m currently working on : Data Science
 - 🌱 I’m currently learning : Machine Learning Algorithms

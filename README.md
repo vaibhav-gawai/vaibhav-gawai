@@ -1,5 +1,7 @@
 ### Hi there 👋
-www.hackerrank.com/vaibhav-gawai
+
+[![github](imgs/gmail.png)][1]
+
 <!--
 **vaibhav-gawai/vaibhav-gawai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -16,3 +18,4 @@ www.hackerrank.com/vaibhav-gawai
 <!-- - 😄 Pronouns: ...-->
 
 
+[1]: mailto:gawaivaibhav2001@gmail.com

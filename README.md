@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-[![github](imgs/gmail.png)][1]
 
-<!--
-**vaibhav-gawai/vaibhav-gawai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**vaibhav-gawai/vaibhav-gawai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 ### ✨ Here are some details about me ✨
@@ -18,4 +16,5 @@
 <!-- - 😄 Pronouns: ...-->
 
 
-[1]: mailto:gawaivaibhav2001@gmail.com
+
+<!--*[1]: mailto:gawaivaibhav2001@gmail.com-->
